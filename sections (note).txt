@@ -1,0 +1,71 @@
+sections 
+Main Page :
+
+Header with navbar(done)
+Hero section (done)
+
+About Us section (done)
+
+Featured Sub-brands:
+- teasers of each sub brand with image
+- link to each sub brand Page
+
+Menu show case (half)
+featured items from main brand
+
+Interactive Map 
+
+Testimonials/review
+- Testimonials
+- Explore more reviews
+
+Footer (done)
+- contact info (done)
+- social media link (done)
+- Quick links to key pages (remaining)
+
+
+Gallery Page
+
+- Theme section for Main brand (on click dynamically open sub brand with categories)
+- categories (Dishes,Ambience,Events) for each sub brand
+- Grid layout with easy exploration
+
+
+Franchies Page (remaining to explore)
+
+Contact Page
+
+- conatct info (left side)  (done)
+------------------
+Phone number 
+email
+working hours and timezone
+address for location or office
+Image (right side)
+------------------
+Call to action 
+------------------
+- Engaging text
+- Button (link to contact form)
+------------------
+
+Interactive Map 
+--------------------------
+link to open map in new tab
+
+
+
+Contact form
+------------------
+- name
+- email 
+- Phone 
+- Meaage
+- dropdown (type)
+  - General Inquiry
+  - franchises Inquiry
+  - Feedback
+-Submit button
+
+
